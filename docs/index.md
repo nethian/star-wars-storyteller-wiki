@@ -12,7 +12,7 @@ hide:
 
 **La Antigua República**
 
-*Los ecos del pasado aún reclaman su precio.*
+*La Sangre Antigua siempre reclama su precio.*
 
 En los límites del Borde Exterior, bajo la sombra del Imperio Sith, Varduun guarda cicatrices antiguas, lealtades inciertas y secretos que se niegan a permanecer enterrados.
 
