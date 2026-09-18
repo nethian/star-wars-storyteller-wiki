@@ -1,0 +1,94 @@
+:root {
+  --sw-gold: #f4c542;
+  --sw-cyan: #55d7ff;
+  --sw-deep: #071018;
+  --sw-panel: rgba(9, 20, 30, 0.82);
+}
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #071018;
+  --md-default-fg-color: #edf4f7;
+  --md-primary-fg-color: #05080b;
+  --md-accent-fg-color: var(--sw-gold);
+}
+
+body {
+  background:
+    radial-gradient(circle at 15% 20%, rgba(85,215,255,.08), transparent 20rem),
+    radial-gradient(circle at 85% 10%, rgba(244,197,66,.06), transparent 22rem),
+    #071018;
+}
+
+.md-header {
+  border-bottom: 1px solid rgba(244,197,66,.35);
+}
+
+.md-tabs {
+  border-bottom: 1px solid rgba(85,215,255,.15);
+}
+
+.md-typeset h1,
+.md-typeset h2 {
+  letter-spacing: .035em;
+}
+
+.md-typeset h1 {
+  color: var(--sw-gold);
+  text-transform: uppercase;
+}
+
+.sw-hero {
+  padding: 4.5rem 2rem;
+  margin: -1rem -1rem 2rem;
+  text-align: center;
+  border: 1px solid rgba(85,215,255,.22);
+  border-radius: .75rem;
+  background:
+    linear-gradient(180deg, rgba(7,16,24,.35), rgba(7,16,24,.93)),
+    radial-gradient(circle at 50% 20%, rgba(85,215,255,.18), transparent 45%);
+  box-shadow: 0 0 45px rgba(0,0,0,.35);
+}
+
+.sw-hero h1 {
+  margin-bottom: .2rem;
+  font-size: clamp(2.3rem, 7vw, 5rem);
+  line-height: .95;
+  letter-spacing: .08em;
+}
+
+.sw-hero h2 {
+  margin-top: .4rem;
+  color: #fff;
+  font-weight: 400;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+}
+
+.sw-dossier {
+  padding: 1rem 1.25rem;
+  border-left: 3px solid var(--sw-cyan);
+  background: var(--sw-panel);
+}
+
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid.cards > ol > li {
+  background: rgba(9,20,30,.72);
+  border-color: rgba(85,215,255,.18);
+}
+
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .grid.cards > ol > li:hover {
+  border-color: rgba(244,197,66,.6);
+  box-shadow: 0 0 24px rgba(244,197,66,.08);
+}
+
+.md-typeset .md-button--primary {
+  color: #071018;
+  background: var(--sw-gold);
+  border-color: var(--sw-gold);
+}
+
+.md-typeset blockquote {
+  border-left-color: var(--sw-gold);
+  color: #c9d7dd;
+}
