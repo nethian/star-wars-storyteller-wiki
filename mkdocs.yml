@@ -1,5 +1,5 @@
-site_name: STAR WARS STORYTELLER · Holocron de campaña
-site_description: Wiki de campaña de Star Wars Storyteller · La Antigua República
+site_name: STAR WARS STORYTELLER · Varduun: Ecos del Pasado
+site_description: Wiki de campaña de Star Wars Storyteller · Varduun: Ecos del Pasado
 site_author: Jordi
 docs_dir: docs
 
@@ -39,7 +39,16 @@ nav:
       - Cronología: cronologia/index.md
       - Diario de campaña: diario/index.md
   - La galaxia:
-      - Varduun: varduun/index.md
+      - Varduun:
+          - Visión general: varduun/index.md
+          - Regiones: varduun/regiones.md
+          - Asentamientos: varduun/asentamientos.md
+          - Sociedad: varduun/sociedad.md
+          - Presencia imperial: varduun/presencia-imperial.md
+          - Facciones locales: varduun/facciones-locales.md
+          - Lugares importantes: varduun/lugares.md
+          - Rumores conocidos: varduun/rumores.md
+          - Cronología local: varduun/cronologia.md
       - Facciones: facciones/index.md
       - Personajes: personajes/index.md
       - PNJ conocidos: pnj/index.md
