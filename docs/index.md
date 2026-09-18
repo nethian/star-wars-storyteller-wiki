@@ -8,11 +8,13 @@ hide:
 
 # STAR WARS STORYTELLER
 
-## Holocron de campaña
+## Varduun: Ecos del Pasado
 
 **La Antigua República**
 
-Una galaxia dividida. Un mundo en la frontera. Una historia que todavía no está escrita.
+*Los ecos del pasado aún reclaman su precio.*
+
+En los límites del Borde Exterior, bajo la sombra del Imperio Sith, Varduun guarda cicatrices antiguas, lealtades inciertas y secretos que se niegan a permanecer enterrados.
 
 [Entrar en la campaña](campana/){ .md-button .md-button--primary }
 [Explorar Varduun](varduun/){ .md-button }
