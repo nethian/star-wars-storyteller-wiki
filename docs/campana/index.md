@@ -2,7 +2,7 @@
 
 **STAR WARS STORYTELLER · La Antigua República**
 
-> *Los ecos del pasado aún reclaman su precio.*
+> *La Sangre Antigua siempre reclama su precio.*
 
 ## Presentación
 
