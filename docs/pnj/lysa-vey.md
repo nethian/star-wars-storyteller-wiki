@@ -3,9 +3,9 @@ hide:
   - toc
 ---
 
-<div class="sw-person-file sw-person-file--civilian">
+<div class="sw-person-file sw-person-file--civilian" markdown>
 
-<div class="sw-person-file__top">
+<div class="sw-person-file__top" markdown>
 
 <div class="sw-person-file__portrait sw-person-file__portrait--placeholder">
 <span>RETRATO PENDIENTE</span>
