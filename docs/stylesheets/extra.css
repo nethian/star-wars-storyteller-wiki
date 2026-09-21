@@ -725,3 +725,200 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
+
+/* ---------- EXPEDIENTE INDIVIDUAL DE PNJ ---------- */
+
+.sw-person-file {
+  max-width: 980px;
+  margin: 1rem 0 3rem;
+}
+
+.sw-person-file__top {
+  display: grid;
+  grid-template-columns: minmax(210px, 30%) 1fr;
+  overflow: hidden;
+  background:
+    linear-gradient(145deg, rgba(11,22,29,.96), rgba(5,11,16,.95));
+  border: 1px solid rgba(155,168,174,.16);
+  border-top: 2px solid var(--sw-gold);
+  box-shadow: 0 20px 48px rgba(0,0,0,.24);
+}
+
+.sw-person-file__portrait {
+  min-height: 360px;
+  border-right: 1px solid rgba(217,173,85,.15);
+  background-position: center;
+  background-size: cover;
+}
+
+.sw-person-file__portrait--placeholder {
+  position: relative;
+  display: grid;
+  place-items: center;
+  color: rgba(232,236,235,.28);
+  font-size: .62rem;
+  font-weight: 700;
+  letter-spacing: .22em;
+  background:
+    linear-gradient(180deg, rgba(7,15,21,.10), rgba(7,15,21,.92)),
+    radial-gradient(circle at 50% 34%, rgba(217,173,85,.12), transparent 11rem),
+    #0a151c;
+}
+
+.sw-person-file__portrait--placeholder::before {
+  content: "";
+  position: absolute;
+  width: 44%;
+  aspect-ratio: 1;
+  top: 24%;
+  border-radius: 50%;
+  border: 1px solid rgba(217,173,85,.12);
+  box-shadow: 0 0 30px rgba(217,173,85,.05);
+}
+
+.sw-person-file__identity {
+  padding: 1.65rem 1.7rem 1.5rem;
+}
+
+.sw-person-file__identity h1 {
+  margin: .08rem 0 .25rem !important;
+  color: #f4f1e8;
+  font-size: clamp(2rem, 4.6vw, 3.4rem);
+  text-transform: uppercase;
+}
+
+.sw-person-file__subtitle {
+  margin: 0 0 1rem !important;
+  color: var(--sw-muted);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: .95rem;
+  font-style: italic;
+}
+
+.sw-fact-grid--person {
+  margin-top: 1.25rem;
+}
+
+.sw-person-file__quote {
+  margin: 1.25rem 0 2rem;
+  padding: .9rem 1.15rem;
+  color: var(--sw-gold-bright);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.03rem;
+  font-style: italic;
+  text-align: center;
+  background: rgba(217,173,85,.045);
+  border-top: 1px solid rgba(217,173,85,.13);
+  border-bottom: 1px solid rgba(217,173,85,.13);
+}
+
+.sw-known-note {
+  margin: 1.3rem 0;
+  padding: 1rem 1.15rem;
+  background: rgba(8,17,24,.75);
+  border: 1px solid rgba(155,168,174,.15);
+  border-left: 3px solid var(--sw-steel);
+}
+
+.sw-known-note > span {
+  display: block;
+  margin-bottom: .3rem;
+  color: var(--sw-muted);
+  font-size: .56rem;
+  font-weight: 700;
+  letter-spacing: .16em;
+}
+
+.sw-known-note p {
+  margin: 0 !important;
+  color: var(--sw-muted);
+}
+
+.sw-known-note--gold {
+  border-left-color: var(--sw-gold);
+  background:
+    linear-gradient(90deg, rgba(217,173,85,.065), transparent 42%),
+    rgba(8,17,24,.75);
+}
+
+.sw-known-note--gold > span {
+  color: var(--sw-gold-bright);
+}
+
+.sw-person-file__footer {
+  display: flex;
+  justify-content: space-between;
+  gap: .8rem 1.5rem;
+  flex-wrap: wrap;
+  margin-top: 2.3rem;
+  padding-top: .7rem;
+  color: #65777d;
+  font-family: var(--md-code-font-family);
+  font-size: .55rem;
+  letter-spacing: .08em;
+  border-top: 1px solid rgba(97,200,218,.12);
+}
+
+.sw-person-index-card {
+  position: relative;
+  max-width: 760px;
+  margin: 2rem 0 3rem;
+  padding: 1.3rem 1.4rem 1.2rem 4rem;
+  background:
+    linear-gradient(100deg, rgba(217,173,85,.07), transparent 30%),
+    rgba(8,17,24,.78);
+  border: 1px solid rgba(217,173,85,.18);
+  border-left: 3px solid var(--sw-gold);
+}
+
+.sw-person-index-card__mark {
+  position: absolute;
+  top: 1.15rem;
+  left: 1.2rem;
+  display: grid;
+  width: 1.9rem;
+  height: 1.9rem;
+  place-items: center;
+  color: var(--sw-gold-bright);
+  border: 1px solid rgba(217,173,85,.28);
+  border-radius: 50%;
+}
+
+.sw-person-index-card h3 {
+  margin: 0 0 .18rem !important;
+}
+
+.sw-person-index-card h3 a {
+  color: #f1eee6;
+}
+
+.sw-person-index-card p {
+  margin: .35rem 0 .6rem !important;
+  color: var(--sw-muted);
+}
+
+@media screen and (max-width: 760px) {
+  .sw-person-file__top {
+    grid-template-columns: 1fr;
+  }
+
+  .sw-person-file__portrait {
+    min-height: 260px;
+    border-right: 0;
+    border-bottom: 1px solid rgba(217,173,85,.15);
+  }
+
+  .sw-person-file__identity {
+    padding: 1.25rem 1.1rem;
+  }
+
+  .sw-person-index-card {
+    padding-left: 1.2rem;
+  }
+
+  .sw-person-index-card__mark {
+    position: static;
+    margin-bottom: .65rem;
+  }
+}
