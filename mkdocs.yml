@@ -6,6 +6,8 @@ docs_dir: docs
 theme:
   name: material
   language: es
+  logo: assets/images/emblem-storyteller.svg
+  favicon: assets/images/emblem-storyteller.svg
   palette:
     scheme: slate
     primary: black
