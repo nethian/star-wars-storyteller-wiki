@@ -4,58 +4,114 @@ hide:
   - toc
 ---
 
-<div class="sw-hero" markdown>
+<section class="sw-home-hero">
 
-# STAR WARS STORYTELLER
+<div class="sw-hero-shade"></div>
 
-## Varduun: Ecos del Pasado
+<div class="sw-hero-content" markdown>
 
-**La Antigua República**
+<div class="sw-campaign-logo" role="img" aria-label="STAR WARS STORYTELLER"></div>
 
-*La Sangre Antigua siempre reclama su precio.*
+<p class="sw-era">LA ANTIGUA REPÚBLICA</p>
 
-En los límites del Borde Exterior, bajo la sombra del Imperio Sith, Varduun guarda cicatrices antiguas, lealtades inciertas y secretos que se niegan a permanecer enterrados.
+# Varduun: Ecos del Pasado
 
-[Entrar en la campaña](campana/){ .md-button .md-button--primary }
-[Explorar Varduun](varduun/){ .md-button }
+<p class="sw-tagline">La Sangre Antigua siempre reclama su precio</p>
 
+<p class="sw-lead">Un mundo de cosechas, fronteras y viejas heridas bajo la sombra del Imperio Sith.</p>
+
+<div class="sw-hero-actions">
+<a class="md-button md-button--primary" href="campana/">Entrar en la campaña</a>
+<a class="md-button sw-button-ghost" href="varduun/">Explorar Varduun</a>
 </div>
 
-<div class="grid cards" markdown>
+</div>
+</section>
 
--   :material-account-group:{ .lg .middle } **Personajes**
+<section class="sw-section sw-section--access" markdown>
+
+<p class="sw-kicker">ACCESO AL HOLOCRON</p>
+
+## Archivos de campaña
+
+<div class="grid cards sw-home-cards" markdown>
+
+-   :material-earth:{ .xl .middle } **Varduun**
+
+    ---
+
+    El mundo, sus regiones, asentamientos, autoridades y lugares conocidos.
+
+    [:octicons-arrow-right-24: Explorar el planeta](varduun/)
+
+-   :material-account-group:{ .xl .middle } **Personajes**
 
     ---
 
     Los protagonistas y las personas que han dejado huella en su historia.
 
-    [:octicons-arrow-right-24: Abrir archivo](personajes/)
+    [:octicons-arrow-right-24: Abrir expedientes](personajes/)
 
--   :material-earth:{ .lg .middle } **Varduun**
-
-    ---
-
-    Regiones, asentamientos, lugares conocidos y el pulso de un mundo bajo la sombra imperial.
-
-    [:octicons-arrow-right-24: Explorar](varduun/)
-
--   :material-timeline-clock:{ .lg .middle } **Crónica**
+-   :material-timeline-clock:{ .xl .middle } **Crónica**
 
     ---
 
-    La campaña sesión a sesión, con sus descubrimientos, decisiones y consecuencias conocidas.
+    La historia de la campaña, sesión a sesión, con decisiones y consecuencias.
 
     [:octicons-arrow-right-24: Consultar cronología](cronologia/)
 
--   :material-access-point-network:{ .lg .middle } **Holored**
+-   :material-access-point-network:{ .xl .middle } **Holored**
 
     ---
 
     Noticias, rumores, comunicaciones y documentos que circulan por la galaxia.
 
-    [:octicons-arrow-right-24: Conectar](holored/)
+    [:octicons-arrow-right-24: Conectar con la Holored](holored/)
 
 </div>
 
-!!! warning "Archivo de jugadores"
-    Esta wiki contiene únicamente información que puede conocer el grupo. Los secretos del Director viven fuera de este Holocron.
+</section>
+
+<section class="sw-section sw-section--status" markdown>
+
+<p class="sw-kicker">ARCHIVO ACTUAL</p>
+
+## Varduun bajo observación
+
+<div class="sw-status-grid">
+
+<div class="sw-status-card sw-status-card--gold">
+<span class="sw-status-label">CAMPAÑA</span>
+<strong>Preparativos</strong>
+<p>El Holocron reúne la información disponible antes del comienzo de la historia.</p>
+</div>
+
+<div class="sw-status-card sw-status-card--cyan">
+<span class="sw-status-label">MUNDO</span>
+<strong>Varduun</strong>
+<p>Protectorado agrario del Borde Exterior bajo influencia del Imperio Sith.</p>
+</div>
+
+<div class="sw-status-card sw-status-card--red">
+<span class="sw-status-label">SITUACIÓN</span>
+<strong>Cosechas en riesgo</strong>
+<p>Una plaga agrícola amenaza la producción mientras el tributo imperial permanece intacto.</p>
+</div>
+
+</div>
+
+</section>
+
+<section class="sw-section sw-section--principle" markdown>
+
+<div class="sw-holocron-note">
+
+### Un archivo que crecerá con vosotros
+
+Este Holocron contiene únicamente lo que los personajes **conocen, han descubierto o pueden consultar**.
+
+Los rumores seguirán siendo rumores. Los errores permanecerán como parte de la historia. Y aquello que todavía duerme bajo Varduun seguirá fuera de estas páginas hasta que alguien lo encuentre.
+
+</div>
+
+</section>
