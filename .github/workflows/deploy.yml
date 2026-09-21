@@ -6,6 +6,10 @@ on:
       - main
   workflow_dispatch:
 
+concurrency:
+  group: publicar-wiki
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -19,10 +23,13 @@ jobs:
       - name: Preparar Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: "3.13"
 
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
-      - name: Construir y publicar
+      - name: Construir wiki
+        run: mkdocs build
+
+      - name: Publicar en gh-pages
         run: mkdocs gh-deploy --force
