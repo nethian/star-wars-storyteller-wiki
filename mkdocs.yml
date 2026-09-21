@@ -1,6 +1,7 @@
 site_name: "STAR WARS STORYTELLER · Varduun: Ecos del Pasado"
 site_description: "Wiki de campaña de Star Wars Storyteller · Varduun: Ecos del Pasado"
 site_author: Jordi
+site_url: "https://nethian.github.io/star-wars-storyteller-wiki/"
 docs_dir: docs
 
 theme:
