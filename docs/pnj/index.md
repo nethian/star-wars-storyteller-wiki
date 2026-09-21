@@ -21,17 +21,17 @@ hide:
 
 </div>
 
-<div class="sw-empty-archive">
+<div class="sw-person-index-card" markdown>
 
-<div class="sw-empty-archive__sigil">✦</div>
+<div class="sw-person-index-card__mark">✦</div>
 
-## Ningún expediente público todavía
+### [Lysa Vey](lysa-vey.md)
 
-La campaña aún no ha incorporado PNJ al archivo de jugadores.
+**Familia · La Cerca Larga**
 
-Cuando alguien entre en la historia, su expediente podrá registrar **primera aparición**, **especie**, **facción conocida**, **relación con el grupo**, **estado actual**, **lugares relacionados** y una breve cronología de encuentros.
+Madre de Cael, Tara y Daren. Firme, reservada y práctica; lleva almacenes, intercambios y cuentas domésticas.
 
-<span class="sw-empty-archive__code">HOL-ARCHIVE // PERSONNEL // WAITING FOR DATA</span>
+[ABRIR EXPEDIENTE →](lysa-vey.md)
 
 </div>
 
