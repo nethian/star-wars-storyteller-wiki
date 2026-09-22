@@ -7,8 +7,8 @@ hide:
 
 <div class="sw-person-file__top" markdown>
 
-<div class="sw-person-file__portrait sw-person-file__portrait--placeholder">
-<span>RETRATO PENDIENTE</span>
+<div class="sw-person-file__portrait sw-person-file__portrait--nira" role="img" aria-label="Retrato de Nira Bol" style="padding:0; overflow:hidden;">
+<img src="/star-wars-storyteller-wiki/assets/images/pnj/nira-bol.webp?v=1" alt="Retrato de Nira Bol" style="display:block; width:100%; height:100%; min-height:360px; object-fit:cover; object-position:50% 22%;">
 </div>
 
 <div class="sw-person-file__identity" markdown>
