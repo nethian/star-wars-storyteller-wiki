@@ -940,3 +940,30 @@ body {
   background-position: 50% 24%;
   background-size: cover;
 }
+
+
+/* ---------- ESTADOS DE EXPEDIENTE ---------- */
+
+.sw-chip--red {
+  color: #ef9aa3;
+  border-color: rgba(158,38,50,.42);
+  background: rgba(158,38,50,.09);
+}
+
+.sw-person-file--memorial .sw-person-file__top {
+  border-top-color: rgba(155,168,174,.44);
+}
+
+.sw-person-file--memorial .sw-person-file__portrait--placeholder {
+  background:
+    linear-gradient(180deg, rgba(7,15,21,.18), rgba(5,9,13,.96)),
+    radial-gradient(circle at 50% 34%, rgba(155,168,174,.10), transparent 11rem),
+    #091116;
+}
+
+.sw-person-index-card--memorial {
+  border-left-color: rgba(155,168,174,.58);
+  background:
+    linear-gradient(100deg, rgba(155,168,174,.055), transparent 30%),
+    rgba(8,17,24,.78);
+}
