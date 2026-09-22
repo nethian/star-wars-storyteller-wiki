@@ -931,3 +931,12 @@ body {
   background-position: 50% 28%;
   background-size: cover;
 }
+
+
+.sw-person-file__portrait--tomas {
+  background-image:
+    linear-gradient(180deg, rgba(5,9,13,.03), rgba(5,9,13,.16)),
+    url("../assets/images/pnj/tomas-orlan.webp");
+  background-position: 50% 24%;
+  background-size: cover;
+}
