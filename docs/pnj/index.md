@@ -113,6 +113,21 @@ Zabrak de la Guardia de Acequias. Disciplinado, rígido y compañero habitual de
 
 </div>
 
+
+<div class="sw-person-index-card" markdown>
+
+<div class="sw-person-index-card__mark">✦</div>
+
+### [Jessa Dorr](jessa-dorr.md)
+
+**Amistad · H-3**
+
+Técnica de bombas y de H-3. Meticulosa, fuerte y con un humor tan seco como un filtro sin agua.
+
+[ABRIR EXPEDIENTE →](jessa-dorr.md)
+
+</div>
+
 ## Cómo serán los expedientes
 
 <div class="sw-profile-preview">
