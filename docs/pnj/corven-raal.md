@@ -7,9 +7,7 @@ hide:
 
 <div class="sw-person-file__top" markdown>
 
-<div class="sw-person-file__portrait sw-person-file__portrait--placeholder">
-<span>RETRATO PENDIENTE</span>
-</div>
+<div class="sw-person-file__portrait sw-person-file__portrait--corven" role="img" aria-label="Retrato de Corven Raal"></div>
 
 <div class="sw-person-file__identity" markdown>
 
