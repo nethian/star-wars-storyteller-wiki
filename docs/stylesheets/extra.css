@@ -922,3 +922,12 @@ body {
     margin-bottom: .65rem;
   }
 }
+
+
+.sw-person-file__portrait--lysa {
+  background-image:
+    linear-gradient(180deg, rgba(5,9,13,.04), rgba(5,9,13,.18)),
+    url("../assets/images/pnj/lysa-vey.webp");
+  background-position: 50% 28%;
+  background-size: cover;
+}
