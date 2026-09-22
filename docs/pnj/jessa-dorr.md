@@ -7,7 +7,9 @@ hide:
 
 <div class="sw-person-file__top" markdown>
 
-<div class="sw-person-file__portrait sw-person-file__portrait--jessa" role="img" aria-label="Retrato de Jessa Dorr" style="background-image:linear-gradient(180deg, rgba(5,9,13,.04), rgba(5,9,13,.16)), url('../../assets/images/pnj/jessa-dorr.webp?v=1'); background-position:50% 22%; background-size:cover;"></div>
+<div class="sw-person-file__portrait sw-person-file__portrait--jessa" role="img" aria-label="Retrato de Jessa Dorr" style="padding:0; overflow:hidden;">
+<img src="/star-wars-storyteller-wiki/assets/images/pnj/jessa-dorr.webp?v=2" alt="Retrato de Jessa Dorr" style="display:block; width:100%; height:100%; min-height:360px; object-fit:cover; object-position:50% 22%;">
+</div>
 
 <div class="sw-person-file__identity" markdown>
 
