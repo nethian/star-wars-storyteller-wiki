@@ -1017,3 +1017,33 @@ body {
   background-position: 50% 24%;
   background-size: cover;
 }
+
+
+/* ---------- VARDUUN ---------- */
+
+.sw-world-hero {
+  margin: .8rem 0 1.4rem;
+  overflow: hidden;
+  background: rgba(7, 15, 21, .82);
+  border: 1px solid rgba(155, 168, 174, .16);
+  border-top: 2px solid var(--sw-gold);
+  box-shadow: 0 18px 45px rgba(0, 0, 0, .22);
+}
+
+.sw-world-hero img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  margin: 0;
+  object-fit: cover;
+}
+
+.sw-world-hero figcaption {
+  margin: 0;
+  padding: .55rem .8rem;
+  color: var(--sw-muted);
+  font-size: .68rem;
+  letter-spacing: .035em;
+  text-align: right;
+  border-top: 1px solid rgba(217, 173, 85, .14);
+}

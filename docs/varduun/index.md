@@ -1,5 +1,10 @@
 # Varduun
 
+<figure class="sw-world-hero">
+  <img src="../assets/images/varduun-orbita.webp" alt="Vista orbital de Varduun, mundo agrícola del Borde Exterior" loading="eager" decoding="async">
+  <figcaption>Varduun, mundo agrícola del Borde Exterior.</figcaption>
+</figure>
+
 <div class="sw-dossier" markdown>
 
 **Región:** Borde Exterior  
