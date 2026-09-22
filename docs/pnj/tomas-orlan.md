@@ -7,9 +7,7 @@ hide:
 
 <div class="sw-person-file__top" markdown>
 
-<div class="sw-person-file__portrait sw-person-file__portrait--placeholder">
-<span>RETRATO PENDIENTE</span>
-</div>
+<div class="sw-person-file__portrait sw-person-file__portrait--tomas" role="img" aria-label="Retrato de Tomas Orlan"></div>
 
 <div class="sw-person-file__identity" markdown>
 
