@@ -1008,3 +1008,12 @@ body {
   background-position: 50% 22%;
   background-size: cover;
 }
+
+
+.sw-person-file__portrait--toma {
+  background-image:
+    linear-gradient(180deg, rgba(5,9,13,.04), rgba(5,9,13,.16)),
+    url("../assets/images/pnj/toma-pellan.webp");
+  background-position: 50% 24%;
+  background-size: cover;
+}
