@@ -83,6 +83,21 @@ Piloto twi'lek, directa y burlona. Respeta los silencios de Cael y, precisamente
 
 </div>
 
+
+<div class="sw-person-index-card" markdown>
+
+<div class="sw-person-index-card__mark">✦</div>
+
+### [Toma Pellan](toma-pellan.md)
+
+**Amistad · Tres Canales**
+
+Conductor agrícola y amigo cercano de Cael. Competitivo, orgulloso y siempre dispuesto a convertir una tarea en una apuesta.
+
+[ABRIR EXPEDIENTE →](toma-pellan.md)
+
+</div>
+
 ## Cómo serán los expedientes
 
 <div class="sw-profile-preview">
