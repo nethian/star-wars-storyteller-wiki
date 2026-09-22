@@ -128,6 +128,22 @@ Técnica de bombas y de H-3. Meticulosa, fuerte y con un humor tan seco como un 
 
 </div>
 
+## Círculo de Tara
+
+<div class="sw-person-index-card" markdown>
+
+<div class="sw-person-index-card__mark">✦</div>
+
+### [Nira Bol](nira-bol.md)
+
+**Amistad · El Eje Partido**
+
+Aprendiz de taller y mejor amiga de Tara. Práctica, irreverente y especialmente hábil con cerraduras, sensores y reparaciones.
+
+[ABRIR EXPEDIENTE →](nira-bol.md)
+
+</div>
+
 ## Cómo serán los expedientes
 
 <div class="sw-profile-preview">
