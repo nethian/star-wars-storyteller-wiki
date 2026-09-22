@@ -988,3 +988,23 @@ body {
   background-position: 50% 22%;
   background-size: cover;
 }
+
+
+/* ---------- RETRATOS PNJ ---------- */
+
+.sw-person-file__portrait--corven {
+  background-image:
+    linear-gradient(180deg, rgba(5,9,13,.05), rgba(5,9,13,.18)),
+    url("../assets/images/pnj/corven-raal.webp");
+  background-position: 50% 24%;
+  background-size: cover;
+}
+
+
+.sw-person-file__portrait--reth {
+  background-image:
+    linear-gradient(180deg, rgba(5,9,13,.04), rgba(5,9,13,.16)),
+    url("../assets/images/pnj/reth-marr.webp");
+  background-position: 50% 22%;
+  background-size: cover;
+}
