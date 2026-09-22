@@ -967,3 +967,15 @@ body {
     linear-gradient(100deg, rgba(155,168,174,.055), transparent 30%),
     rgba(8,17,24,.78);
 }
+
+
+.sw-known-note--cyan {
+  border-left-color: var(--sw-cyan);
+  background:
+    linear-gradient(90deg, rgba(97,200,218,.065), transparent 42%),
+    rgba(8,17,24,.75);
+}
+
+.sw-known-note--cyan > span {
+  color: #99e5ef;
+}
