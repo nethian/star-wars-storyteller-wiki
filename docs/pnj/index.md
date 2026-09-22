@@ -50,6 +50,21 @@ Padre de Daren y padrastro de Cael y Tara. Paciente, honesto y protector; expert
 
 </div>
 
+
+<div class="sw-person-index-card sw-person-index-card--memorial" markdown>
+
+<div class="sw-person-index-card__mark">✦</div>
+
+### [Corven Raal](corven-raal.md)
+
+**Familia · Fallecido**
+
+Padre de Cael y Tara. Murió durante un ataque de saqueadores el año en que la familia llegó a Varduun.
+
+[ABRIR EXPEDIENTE →](corven-raal.md)
+
+</div>
+
 ## Cómo serán los expedientes
 
 <div class="sw-profile-preview">
