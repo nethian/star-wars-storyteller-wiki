@@ -979,3 +979,12 @@ body {
 .sw-known-note--cyan > span {
   color: #99e5ef;
 }
+
+
+.sw-person-file__portrait--sira {
+  background-image:
+    linear-gradient(180deg, rgba(5,9,13,.04), rgba(5,9,13,.16)),
+    url("../assets/images/pnj/sira-daal.webp");
+  background-position: 50% 22%;
+  background-size: cover;
+}
