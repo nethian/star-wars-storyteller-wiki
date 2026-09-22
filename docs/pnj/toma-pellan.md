@@ -7,7 +7,7 @@ hide:
 
 <div class="sw-person-file__top" markdown>
 
-<div class="sw-person-file__portrait sw-person-file__portrait--toma" role="img" aria-label="Retrato de Toma Pellan"></div>
+<div class="sw-person-file__portrait sw-person-file__portrait--toma" role="img" aria-label="Retrato de Toma Pellan" style="background-image:linear-gradient(180deg, rgba(5,9,13,.04), rgba(5,9,13,.16)), url('../../assets/images/pnj/toma-pellan.webp?v=3'); background-position:50% 24%; background-size:cover;"></div>
 
 <div class="sw-person-file__identity" markdown>
 
