@@ -35,6 +35,21 @@ Madre de Cael, Tara y Daren. Firme, reservada y práctica; lleva almacenes, inte
 
 </div>
 
+
+<div class="sw-person-index-card" markdown>
+
+<div class="sw-person-index-card__mark">✦</div>
+
+### [Tomas Orlan](tomas-orlan.md)
+
+**Familia · La Cerca Larga**
+
+Padre de Daren y padrastro de Cael y Tara. Paciente, honesto y protector; experto en maquinaria, suelo, cuentas y rifle.
+
+[ABRIR EXPEDIENTE →](tomas-orlan.md)
+
+</div>
+
 ## Cómo serán los expedientes
 
 <div class="sw-profile-preview">
