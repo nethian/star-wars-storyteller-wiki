@@ -21,6 +21,8 @@ hide:
 
 </div>
 
+## Familia
+
 <div class="sw-person-index-card" markdown>
 
 <div class="sw-person-index-card__mark">✦</div>
@@ -62,6 +64,22 @@ Padre de Daren y padrastro de Cael y Tara. Paciente, honesto y protector; expert
 Padre de Cael y Tara. Murió durante un ataque de saqueadores el año en que la familia llegó a Varduun.
 
 [ABRIR EXPEDIENTE →](corven-raal.md)
+
+</div>
+
+## Círculo de Cael
+
+<div class="sw-person-index-card" markdown>
+
+<div class="sw-person-index-card__mark">✦</div>
+
+### [Sira Daal](sira-daal.md)
+
+**Amistad · Patio de Carga**
+
+Piloto twi'lek, directa y burlona. Respeta los silencios de Cael y, precisamente por eso, consigue que hable.
+
+[ABRIR EXPEDIENTE →](sira-daal.md)
 
 </div>
 
