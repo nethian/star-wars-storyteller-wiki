@@ -63,8 +63,6 @@ Su relación funciona, en buena medida, porque ninguno de los dos necesita disfr
 
 Sira respeta los silencios de Cael.
 
-Cael confía en la habilidad de Sira como piloto.
-
 Ella puede burlarse de él sin que parezca un ataque y conseguir que responda incluso cuando su intención inicial era limitarse a asentir. A veces basta una frase suya para que Cael pase de una respuesta de una palabra a una conversación completa, algo que no todas las personas de Tres Canales pueden presumir de haber conseguido.
 
 No hay ninguna necesidad de llenar los huecos entre ambos. Y quizá por eso esos huecos nunca resultan incómodos.
