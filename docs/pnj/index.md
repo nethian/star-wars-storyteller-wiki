@@ -98,6 +98,21 @@ Conductor agrícola y amigo cercano de Cael. Competitivo, orgulloso y siempre di
 
 </div>
 
+
+<div class="sw-person-index-card" markdown>
+
+<div class="sw-person-index-card__mark">✦</div>
+
+### [Reth Marr](reth-marr.md)
+
+**Amistad · Guardia de Acequias**
+
+Zabrak de la Guardia de Acequias. Disciplinado, rígido y compañero habitual de entrenamiento de Cael.
+
+[ABRIR EXPEDIENTE →](reth-marr.md)
+
+</div>
+
 ## Cómo serán los expedientes
 
 <div class="sw-profile-preview">
