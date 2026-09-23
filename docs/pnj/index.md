@@ -205,6 +205,21 @@ Sobrina de Hessa Tal. Inteligente, prudente y siempre preparada para curar una h
 
 </div>
 
+
+<div class="sw-person-index-card" markdown>
+
+<div class="sw-person-index-card__mark">✦</div>
+
+### [Brik Besh](brik-besh.md)
+
+**Amistad · Los de H-3**
+
+Hijo de Toran Besh. Alto, ruidoso, valiente y convencido de que cualquier tarde mejora si se convierte en patrulla.
+
+[ABRIR EXPEDIENTE →](brik-besh.md)
+
+</div>
+
 ## Cómo serán los expedientes
 
 <div class="sw-profile-preview">
