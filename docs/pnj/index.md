@@ -189,6 +189,22 @@ Amigo de infancia de Tara. Alegre, veloz y algo irresponsable; convierte cualqui
 
 </div>
 
+## Daren y Los de H-3
+
+<div class="sw-person-index-card" markdown>
+
+<div class="sw-person-index-card__mark">✦</div>
+
+### [Mina Tal](mina-tal.md)
+
+**Amistad · Clínica del Canal**
+
+Sobrina de Hessa Tal. Inteligente, prudente y siempre preparada para curar una herida o criticar la causa.
+
+[ABRIR EXPEDIENTE →](mina-tal.md)
+
+</div>
+
 ## Cómo serán los expedientes
 
 <div class="sw-profile-preview">
