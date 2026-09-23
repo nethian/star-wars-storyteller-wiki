@@ -189,7 +189,7 @@ Amigo de infancia de Tara. Alegre, veloz y algo irresponsable; convierte cualqui
 
 </div>
 
-## Daren y Los de H-3
+## Círculo de Daren · Los de H-3
 
 <div class="sw-person-index-card" markdown>
 
