@@ -21,7 +21,11 @@ hide:
 
 </div>
 
-## Familia
+<details class="sw-pnj-group" markdown>
+<summary>
+<span class="sw-pnj-group__title">Familia</span>
+<span class="sw-pnj-group__meta">3 expedientes · La Cerca Larga</span>
+</summary>
 
 <div class="sw-person-index-card" markdown>
 
@@ -67,7 +71,13 @@ Padre de Cael y Tara. Murió durante un ataque de saqueadores el año en que la 
 
 </div>
 
-## Círculo de Cael
+</details>
+
+<details class="sw-pnj-group" markdown>
+<summary>
+<span class="sw-pnj-group__title">Círculo de Cael</span>
+<span class="sw-pnj-group__meta">4 expedientes · Amistades y aliados cercanos</span>
+</summary>
 
 <div class="sw-person-index-card" markdown>
 
@@ -128,7 +138,13 @@ Técnica de bombas y de H-3. Meticulosa, fuerte y con un humor tan seco como un 
 
 </div>
 
-## Círculo de Tara
+</details>
+
+<details class="sw-pnj-group" markdown>
+<summary>
+<span class="sw-pnj-group__title">Círculo de Tara</span>
+<span class="sw-pnj-group__meta">4 expedientes · Amistades y compañeros</span>
+</summary>
 
 <div class="sw-person-index-card" markdown>
 
@@ -189,7 +205,13 @@ Amigo de infancia de Tara. Alegre, veloz y algo irresponsable; convierte cualqui
 
 </div>
 
-## Círculo de Daren · Los de H-3
+</details>
+
+<details class="sw-pnj-group" markdown>
+<summary>
+<span class="sw-pnj-group__title">Círculo de Daren · Los de H-3</span>
+<span class="sw-pnj-group__meta">2 expedientes · Jóvenes de Tres Canales</span>
+</summary>
 
 <div class="sw-person-index-card" markdown>
 
@@ -219,6 +241,8 @@ Hijo de Toran Besh. Alto, ruidoso, valiente y convencido de que cualquier tarde 
 [ABRIR EXPEDIENTE →](brik-besh.md)
 
 </div>
+
+</details>
 
 ## Cómo serán los expedientes
 
