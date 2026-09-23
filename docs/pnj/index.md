@@ -159,6 +159,21 @@ Hijo mayor de Davos Tesk. Orgulloso, tosco con los deudores y muy poco discreto 
 
 </div>
 
+
+<div class="sw-person-index-card" markdown>
+
+<div class="sw-person-index-card__mark">✦</div>
+
+### [Hulo Oruun](hulo-oruun.md)
+
+**Amistad · Exploración**
+
+Ithoriano tranquilo y observador, experto en flora local. Explora, toma muestras y cartografía junto a Tara.
+
+[ABRIR EXPEDIENTE →](hulo-oruun.md)
+
+</div>
+
 ## Cómo serán los expedientes
 
 <div class="sw-profile-preview">
