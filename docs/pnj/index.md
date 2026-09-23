@@ -210,7 +210,7 @@ Amigo de infancia de Tara. Alegre, veloz y algo irresponsable; convierte cualqui
 <details class="sw-pnj-group" markdown>
 <summary>
 <span class="sw-pnj-group__title">Círculo de Daren · Los de H-3</span>
-<span class="sw-pnj-group__meta">2 expedientes · Jóvenes de Tres Canales</span>
+<span class="sw-pnj-group__meta">3 expedientes · Jóvenes de Tres Canales</span>
 </summary>
 
 <div class="sw-person-index-card" markdown>
@@ -239,6 +239,21 @@ Sobrina de Hessa Tal. Inteligente, prudente y siempre preparada para curar una h
 Hijo de Toran Besh. Alto, ruidoso, valiente y convencido de que cualquier tarde mejora si se convierte en patrulla.
 
 [ABRIR EXPEDIENTE →](brik-besh.md)
+
+</div>
+
+
+<div class="sw-person-index-card" markdown>
+
+<div class="sw-person-index-card__mark">✦</div>
+
+### [Nelo Parn](nelo-parn.md)
+
+**Amistad · Los de H-3**
+
+Twi'lek pequeño, ágil y peligrosamente creativo con chatarra, mecanismos y puertas cerradas.
+
+[ABRIR EXPEDIENTE →](nelo-parn.md)
 
 </div>
 
