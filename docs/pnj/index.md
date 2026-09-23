@@ -144,6 +144,21 @@ Aprendiz de taller y mejor amiga de Tara. Práctica, irreverente y especialmente
 
 </div>
 
+
+<div class="sw-person-index-card" markdown>
+
+<div class="sw-person-index-card__mark">✦</div>
+
+### [Rovan Tesk](rovan-tesk.md)
+
+**Amistad · Familia Tesk**
+
+Hijo mayor de Davos Tesk. Orgulloso, tosco con los deudores y muy poco discreto con lo que siente por Tara.
+
+[ABRIR EXPEDIENTE →](rovan-tesk.md)
+
+</div>
+
 ## Cómo serán los expedientes
 
 <div class="sw-profile-preview">
