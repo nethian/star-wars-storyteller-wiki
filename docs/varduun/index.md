@@ -2,95 +2,96 @@
 
 <figure class="sw-world-hero">
   <img src="../assets/images/varduun-orbita.webp" alt="Vista orbital de Varduun, mundo agrícola del Borde Exterior" loading="eager" decoding="async">
-  <figcaption>Varduun, mundo agrícola del Borde Exterior.</figcaption>
+  <figcaption>Varduun: un mundo agrícola cuya vida depende del agua, las cosechas y las rutas exteriores.</figcaption>
 </figure>
 
 <div class="sw-dossier" markdown>
 
-**Región:** Borde Exterior  
-**Situación política:** protectorado bajo influencia del Imperio Sith  
-**Perfil general:** mundo agrario, de población relativamente dispersa  
-**Población estimada:** 320.000 habitantes  
+**Sistema:** Keluun, tercer planeta  
+**Región:** Borde Exterior, cuadrícula R-8  
+**Situación política:** protectorado del Imperio Sith desde CT 0  
 **Capital:** Karrad Landing  
-**Atmósfera:** respirable  
-**Gravedad:** estándar  
-**Día local:** 30 horas  
-**Año local:** 402 días  
-**Lunas:** 2  
-**Papel en la campaña:** escenario principal del inicio de *Ecos del Pasado*  
-**Estado del archivo:** conocimiento inicial de los jugadores
+**Población estimada:** 320.000 habitantes  
+**Ciclo local:** días de 30 horas; año local largo  
+**Lunas:** Asha y Keth  
+**Estado del archivo:** conocimiento compartido al inicio de CT 10
 
 </div>
 
-Varduun no es un mundo famoso.
+Varduun es el único mundo naturalmente habitable del [sistema de Keluun](sistema-keluun.md). Sus llanuras basálticas, acuíferos profundos y largas horas de luz lo convierten en un productor extraordinario siempre que el agua llegue a tiempo.
 
-No controla una gran ruta hiperespacial, no alberga un centro industrial de primer orden y rara vez aparece en los discursos de los grandes líderes de la galaxia. Su importancia parece modesta: producción agrícola, asentamientos dispersos y una posición suficientemente apartada como para que la vida cotidiana conserve un ritmo propio.
+La población vive sobre todo en granjas, asentamientos fluviales y **ruedas de labor**. Humanos, twi'leks, ithorianos, duros y otras especies sostienen una economía de cereal talis, legumbre marru, forraje, nerfs, semillas resistentes, productos procesados, hongos medicinales y biomasa.
 
-Esa apariencia es engañosa.
+La tecnología espacial convive con bombas, droides y cosechadoras reparados durante décadas. Varduun exporta alimento, pero depende del exterior para maquinaria, combustible, fertilizantes, semillas industriales, medicinas, piezas y armas.
 
-La influencia del Imperio Sith forma parte de la realidad política del planeta, aunque su presencia no necesita manifestarse en cada calle ni en cada granja para hacerse sentir. Autoridad, impuestos, permisos, guarniciones, intermediarios y lealtades locales pueden pesar tanto como una flota en órbita.
+## Tierra, agua y autoridad
 
-Varduun exporta principalmente **cereales, nerfs, hongos medicinales y biomasa**. A cambio depende de importaciones de **maquinaria, droides, combustible, medicinas y armamento**. Ese equilibrio se ha vuelto frágil.
+La tierra pertenece a familias concretas. Los grandes pozos, presas y canales se consideran bienes colectivos. Esa diferencia sostiene el **Pacto de las Cuencas** y una máxima más antigua que el Protectorado:
 
-Una plaga agrícola amenaza parte de las cosechas mientras el tributo imperial continúa exigiéndose en su totalidad. Para muchos habitantes, la crisis ya no es una cuestión económica: empieza a parecer una elección entre obedecer, pasar hambre o resistirse.
+> **El agua no pertenece al primero que llega, sino a todos los que la necesitan.**
 
-Y, bajo todo ello, Varduun conserva algo más difícil de medir: **memoria**.
+El Imperio expulsó a los piratas cuando la República dejó de acudir. A cambio obtuvo una guarnición, control orbital, derecho de veto y una cuota anual de alimentos. Las familias siguen figurando como propietarias; la Prefectura controla cada vez más aquello sin lo cual no pueden trabajar: crédito, semillas, repuestos, licencias, puerto y mercado.
 
-La campaña irá revelando qué significa exactamente.
+## La situación en CT 10
 
-## Explorar Varduun
+La [Cosecha Gris](cosecha-gris.md) apareció a finales de CT 9. Las raíces pierden color y se deshacen, los cultivos colapsan y algunas personas y animales presentan síntomas. El Instituto Agrícola investiga. La causa es desconocida y la cuota imperial no se ha reducido.
+
+Varduun no está en guerra. La mayoría de sus habitantes ve a más guardias locales que soldados. La presión llega mediante inspecciones, cuentas bloqueadas, silos precintados, licencias retiradas y manifiestos rechazados. La protección imperial y el control económico son dos verdades que conviven.
+
+## Explorar el archivo
 
 <div class="grid cards" markdown>
 
--   **Regiones**
+-   **Sistema de Keluun**
 
-    Llanuras, valles fluviales, colinas basálticas y marismas conforman buena parte del paisaje conocido.
+    Mapa galáctico, mundos, lunas, rutas e instalaciones orbitales.
 
-    [:octicons-arrow-right-24: Abrir](regiones.md)
+    [:octicons-arrow-right-24: Abrir](sistema-keluun.md)
 
--   **Asentamientos**
+-   **Campos de Harn**
 
-    Karrad Landing y las comunidades rurales articulan la vida del planeta.
+    Ruedas de labor, costumbres, comunidades y tensiones de la región.
 
-    [:octicons-arrow-right-24: Abrir](asentamientos.md)
+    [:octicons-arrow-right-24: Abrir](campos-harn.md)
 
--   **Sociedad**
+-   **Tres Canales**
 
-    Cómo vive una población agraria repartida entre comunidades dispersas y obligaciones crecientes.
+    Mapa civil, canales, zonas, gobierno y nueve enclaves cotidianos.
 
-    [:octicons-arrow-right-24: Abrir](sociedad.md)
+    [:octicons-arrow-right-24: Abrir](tres-canales.md)
 
--   **Presencia imperial**
+-   **La Cerca Larga**
 
-    Lo que se conoce de la administración, la guarnición y el control del Imperio Sith.
+    El hogar Orlan-Vey y la historia familiar que todos comparten.
 
-    [:octicons-arrow-right-24: Abrir](presencia-imperial.md)
+    [:octicons-arrow-right-24: Abrir](la-cerca-larga.md)
 
--   **Facciones locales**
+-   **La Cosecha Gris**
 
-    Poderes, grupos e intereses que tengan peso en el planeta.
+    Síntomas, certezas, sospechas, rumores y preguntas abiertas.
+
+    [:octicons-arrow-right-24: Abrir](cosecha-gris.md)
+
+-   **Historia local**
+
+    De la primera colonia a la Carta de Protección y CT 10.
+
+    [:octicons-arrow-right-24: Abrir](cronologia.md)
+
+-   **Autoridades y facciones**
+
+    Consejo de las Cuencas, Guardia, Prefectura y poderes económicos.
 
     [:octicons-arrow-right-24: Abrir](facciones-locales.md)
 
--   **Lugares importantes**
-
-    La Casa del Diezmo, Fuerte Vhal, Estación Cosecha Negra y otros enclaves relevantes.
-
-    [:octicons-arrow-right-24: Abrir](lugares.md)
-
 -   **Rumores conocidos**
 
-    Historias, medias verdades y cosas que alguien asegura haber visto.
+    Versiones que circulan sin convertirse todavía en hechos.
 
     [:octicons-arrow-right-24: Abrir](rumores.md)
-
--   **Cronología local**
-
-    Hechos históricos conocidos y acontecimientos de la campaña.
-
-    [:octicons-arrow-right-24: Abrir](cronologia.md)
 
 </div>
 
 !!! note "Principio del archivo"
-    Estas páginas crecerán con la partida. No documentaremos como hecho aquello que los personajes todavía no sepan.
+    Estas páginas solo documentan conocimiento de jugador. Lo no descubierto y la información exclusiva de cada personaje permanecen fuera del Holocron público.
+

@@ -1,35 +1,28 @@
 # Lugares importantes
 
-Estos son los principales enclaves de Varduun conocidos al inicio de la campaña.
+## Superficie de Varduun
 
-## Karrad Landing
+| Lugar | Función conocida |
+|---|---|
+| **Karrad Landing** | Capital, mercado principal, puerto espacial, sede del Consejo, Prefectura e Instituto Agrícola. |
+| **[Campos de Harn](campos-harn.md)** | Mayor región agrícola; cerca de 50.000 habitantes y unas 200 ruedas de labor. |
+| **[Tres Canales](tres-canales.md)** | Rueda mayor, mercado y centro hidráulico de Harn. |
+| **[La Cerca Larga](la-cerca-larga.md)** | Granja de los Orlan-Vey en Las Hileras. |
+| **Marismas de Asha** | Humedales ligados a los ciclos de inundación de la luna. |
+| **Valle Hundido** | Antigua región fértil, abandonada tras ataques y sabotajes. |
+| **Casa del Diezmo** | Cuotas, semillas industriales, licencias, importaciones, deudas y embargos. |
+| **Fuerte Vhal** | Cuartel general de la fuerza terrestre imperial. |
 
-Capital planetaria y principal puerto de entrada. Centro político, comercial y administrativo del mundo.
+## Órbita y sistema
 
-## Casa del Diezmo
+| Lugar | Función conocida |
+|---|---|
+| **Cosecha Negra** | Autoridad orbital, aduanas, manifiestos y comunicaciones interestelares. |
+| **Faro Karrad** | Baliza de acceso legal al sistema. |
+| **Asha-1** | Estación meteorológica y agrícola en la luna Asha. |
+| **Keth-7 / La Cantera** | Colonia penal y explotación minera imperial. |
+| **Molkar-3** | Plataforma de extracción y repostaje. |
+| **Arco Karrad** | Cinturón de asteroides, antiguo refugio pirata. |
 
-Dependencia imperial encargada de tributos, autorizaciones y una parte esencial de la burocracia económica del protectorado.
+Consulta [El sistema de Keluun](sistema-keluun.md) para rutas y cuerpos celestes.
 
-## Campos de Harn
-
-Amplia zona agrícola y una de las regiones productivas más importantes de Varduun.
-
-## Marismas de Asha
-
-Extensión de humedales de tránsito difícil. Su aislamiento contrasta con las llanuras cultivadas del resto del planeta.
-
-## Fuerte Vhal
-
-Principal instalación militar imperial conocida en superficie. Alberga la guarnición y los elementos de respuesta rápida del protectorado.
-
-## Estación Cosecha Negra
-
-Instalación vinculada al control orbital, el tránsito de mercancías y la autoridad naval imperial.
-
-## Valle Hundido
-
-Región deprimida y aislada cuya importancia histórica todavía no está completamente documentada en el Holocron.
-
----
-
-Cada lugar podrá recibir más adelante su propia página con descripción, mapa, personas relacionadas, acontecimientos ocurridos allí y estado actual.

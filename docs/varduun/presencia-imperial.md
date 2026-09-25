@@ -1,72 +1,56 @@
 # Presencia del Imperio Sith
 
-Varduun se encuentra bajo influencia del **Imperio Sith** en condición de protectorado.
+Varduun es un **Protectorado del Imperio Sith** desde CT 0. No fue ocupado mediante una invasión: el Consejo de las Cuencas aceptó una Carta de Protección cuando los piratas dominaban las rutas y la República había dejado de responder.
 
-Su relación con el Imperio está regulada por una **Carta de Protección** que divide formalmente las competencias entre la autoridad imperial y el gobierno local.
+## El acuerdo
 
-## Carta de Protección
+| El Imperio prometió | Varduun aceptó |
+|---|---|
+| Destruir bases piratas y proteger las rutas | Una guarnición imperial |
+| Reconocer al Consejo y los tribunales locales | Una Prefectura con derecho de veto |
+| Respetar la propiedad de la tierra | Control imperial del tráfico orbital |
+| Reparar comunicaciones | Una cuota anual de alimentos |
+| Evitar un gobierno militar directo | Cooperación local en seguridad |
 
-El Imperio controla de forma directa:
+Durante los primeros años la pacificación funcionó: volvieron medicinas y maquinaria, bajaron los ataques y las rutas se estabilizaron. Después las cuotas crecieron y disposiciones «temporales» nunca se retiraron.
 
-- defensa planetaria y orbital;
-- puerto y tráfico extraplanetario;
-- relaciones exteriores;
-- exportaciones estratégicas;
-- sedición;
-- requisiciones extraordinarias.
+## Reparto formal de competencias
 
-Las autoridades locales conservan, al menos formalmente:
+| Control directo del Imperio | Competencia local reconocida |
+|---|---|
+| Defensa planetaria y orbital | Propiedad de las tierras |
+| Puerto y baliza hiperespacial | Gestión del agua y cultivos |
+| Relaciones exteriores | Justicia civil y tribunales |
+| Exportación de alimentos | Costumbres locales |
+| Traición, espionaje y sedición | Administración de aldeas y ruedas |
+| Requisiciones en crisis militares | Guardia rural y conflictos internos |
 
-- tierras;
-- agua y cultivos;
-- justicia civil;
-- costumbres;
-- aldeas;
-- Guardia rural.
+El Consejo puede decidir qué cultivar o cómo repartir el agua, pero no cuánto alimento abandona el planeta. La Prefecta puede vetar decisiones sobre cuota, puerto, fuerzas militares o comunicaciones exteriores.
 
-## Cadena de autoridad imperial
+## Autoridades visibles
 
-La estructura conocida sigue esta jerarquía:
+| Autoridad | Cargo y alcance conocido |
+|---|---|
+| **Moff Varic Sorn** | Gobernador regional. No reside en Varduun; representa la máxima autoridad imperial inmediata. |
+| **Prefecta Lysa Varell** | Dirige la administración cotidiana, comunicaciones, combustible, maquinaria, aterrizajes y exportaciones. |
+| **Capitán Corven Dask** | Manda Fuerte Vhal y la fuerza terrestre. Veterano serio y profesional. |
+| **Comandante Nyra Voshen** | Manda Cosecha Negra. Controla entradas, salidas, inspecciones, aduanas y comunicaciones. |
+| **Orren Pell** | Director de la Casa del Diezmo. Puede bloquear semillas, retirar permisos y embargar maquinaria. |
 
-**Consejo Oscuro → Moff regional → Prefecto Imperial de Varduun**
+## Cómo se ejerce el poder
 
-Desde el Prefecto dependen las principales ramas de control planetario.
+El Imperio no necesita soldados en cada granja. Controla los elementos que hacen posible trabajar y vender:
 
-### Prefectura Imperial
+- semillas industriales y fertilizantes;
+- licencias de importación;
+- combustible, maquinaria y repuestos;
+- crédito garantizado con cosechas futuras;
+- embargos;
+- acceso al puerto y manifiestos de carga;
+- sanciones administrativas.
 
-El **Prefecto Imperial** dirige la administración imperial del protectorado.
+Para un agricultor, una cuenta bloqueada o un sello sobre una cosechadora puede resultar más inmediato que una patrulla.
 
-Entre sus competencias conocidas se encuentran:
+!!! info "Sin presencia Sith residente conocida"
+    Al inicio de CT 10 no hay ningún **Lord Sith** ni **Custodio Sith** residente conocido en Varduun. La autoridad visible corresponde a funcionarios, militares, administradores y agentes de seguridad.
 
-- Casa del Diezmo;
-- comunicaciones;
-- asignación y control de combustible y maquinaria;
-- permisos de aterrizaje;
-- supervisión de exportaciones.
-
-### Fuerte Vhal
-
-El **Capitán de Guarnición** dirige las fuerzas terrestres desplegadas en **Fuerte Vhal**.
-
-La guarnición conocida incluye una compañía de infantería, elementos de respuesta rápida, personal médico y técnico, droides, ingenieros y mano de obra subordinada.
-
-### Estación Cosecha Negra
-
-El **Capitán de Armada** destinado en **Estación Cosecha Negra** representa la autoridad naval y orbital inmediata.
-
-Su presencia permite controlar entradas, salidas, rutas de carga y movimientos extraplanetarios sin necesidad de ocupar físicamente cada comunidad de Varduun.
-
-### Inteligencia Imperial
-
-Un **Watcher** de Inteligencia Imperial opera dentro de la estructura del protectorado.
-
-Su función exacta no es de conocimiento público, pero su existencia sí lo es para quienes tratan de forma habitual con la administración imperial.
-
-## Supervisión Sith
-
-En paralelo a la cadena administrativa existe la figura del **Custodio Sith**.
-
-No forma parte de la jerarquía ordinaria del Prefecto. Actúa por comisión del Consejo Oscuro y puede supervisar tanto a la propia Prefectura como cualquier asunto relacionado con amenazas de la Fuerza o intereses Sith.
-
-!!! warning "Información de jugadores"
-    Esta página refleja únicamente la estructura conocida. Motivaciones, operaciones secretas y órdenes reservadas permanecen fuera del Holocron público.

@@ -1048,6 +1048,38 @@ body {
   border-top: 1px solid rgba(217, 173, 85, .14);
 }
 
+/* ---------- MAPAS Y DIAGRAMAS ---------- */
+
+.sw-wide-figure {
+  margin: 1.2rem 0 2rem;
+  padding: .45rem;
+  overflow: hidden;
+  background: rgba(5, 11, 16, .84);
+  border: 1px solid rgba(217, 173, 85, .2);
+  border-radius: 3px;
+  box-shadow: 0 18px 42px rgba(0, 0, 0, .24);
+}
+
+.sw-wide-figure a {
+  display: block;
+  cursor: zoom-in;
+}
+
+.sw-wide-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid rgba(97, 200, 218, .12);
+}
+
+.sw-wide-figure figcaption {
+  padding: .65rem .55rem .25rem;
+  color: var(--sw-muted);
+  font-size: .64rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
 
 /* ---------- GRUPOS DESPLEGABLES PNJ ---------- */
 

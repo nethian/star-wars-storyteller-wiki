@@ -274,6 +274,46 @@ Rodiano callado y paciente, excelente rastreador y atento a huellas, viento y mo
 
 </details>
 
+## Otros rostros conocidos
+
+Estas personas forman parte del conocimiento común, aunque todavía no disponen de expediente individual.
+
+### Tres Canales
+
+| Persona | Papel y reputación pública |
+|---|---|
+| **Orsa Pellan** | Portavoz de la rueda y antigua técnica de la Compuerta. Negocia antes de provocar una respuesta imperial. |
+| **Kered Bol** | Duros de 59 años, dueño de El Eje Partido y padre de Nira. Mecánico cínico, ingenioso y leal. |
+| **Vela Nareen** | Twi'lek de 55 años, propietaria de La Última Gavilla, antigua tripulante y amiga íntima de Lysa. |
+| **Hessa Tal** | Médica de la Clínica del Canal, desbordada por pacientes de El Bajo. |
+| **MD-4H, «Medi»** | Viejo droide médico que ha tratado a buena parte de la rueda. |
+| **Toran Besh** | Sargento al mando de los nueve guardias locales. |
+| **Davos Tesk** | Representante comercial de Boran; ha comprado la deuda de once familias. |
+| **Kellen Ro** | Encargado de H-3, custodio de mediciones, muestras y formularios. |
+
+### Harn y el Consejo
+
+| Persona | Papel y reputación pública |
+|---|---|
+| **Maela Venn** | Primera Administradora y representante de Harn. Paciente, firme y difícil de intimidar. |
+| **Rian Kord** | Comandante de la Guardia de las Acequias y antiguo cazador de piratas. |
+| **Nima Saren** | Directora twi'lek del Instituto Agrícola; investiga la Cosecha Gris. |
+| **Lethar Oruun** | Agrónomo ithoriano y representante de las Marismas de Asha. |
+| **Syla Nareen** | Representante twi'lek de las cooperativas orientales, crítica con el control imperial. |
+| **Daro Vesh** | Contratista duros y representante de los asentamientos fluviales. |
+| **Jarek Harn** | Transportista y último descendiente directo de los Harn; voz informal de jornaleros. |
+| **Boran Tesk** | Principal terrateniente y representante de las propiedades occidentales. |
+
+### Autoridades imperiales
+
+| Persona | Cargo conocido |
+|---|---|
+| **Moff Varic Sorn** | Gobernador regional y autoridad imperial superior del Protectorado. |
+| **Prefecta Lysa Varell** | Principal rostro civil del Imperio en Varduun. |
+| **Capitán Corven Dask** | Comandante de Fuerte Vhal y de la fuerza terrestre. |
+| **Comandante Nyra Voshen** | Comandante de la estación orbital Cosecha Negra. |
+| **Orren Pell** | Director de la Casa del Diezmo. |
+
 ## Cómo serán los expedientes
 
 <div class="sw-profile-preview">

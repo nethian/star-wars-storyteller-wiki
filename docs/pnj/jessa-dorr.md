@@ -63,9 +63,7 @@ Para Jessa, además, es un lugar de trabajo.
 
 ## Cael y Jessa
 
-Jessa y **Cael Raal** se conocieron reparando una bomba durante una inundación.
-
-No es difícil imaginar por qué acabaron llevándose bien.
+Jessa y **Cael Raal** coinciden con frecuencia en reparaciones, talleres y sistemas de riego.
 
 Ambos valoran más que alguien sepa hacer su trabajo que la facilidad con la que pueda hablar de él. Cael no necesita llenar el silencio; Jessa no necesita que lo haga. Cuando hay una avería delante, la conversación puede esperar.
 
@@ -89,7 +87,7 @@ Por oficio.
 
 <div class="sw-known-note sw-known-note--cyan">
 <span>INFORMACIÓN CONFIRMADA</span>
-<p>Jessa trabaja con bombas y en H-3, participa en el mantenimiento de mecanismos de la Compuerta de las Tres y conoce a Cael desde que ambos repararon una bomba durante una inundación.</p>
+<p>Jessa trabaja con bombas y en H-3, participa en el mantenimiento de mecanismos de la Compuerta de las Tres y confía en Cael para trabajos difíciles y metódicos.</p>
 </div>
 
 ## Al comenzar la campaña

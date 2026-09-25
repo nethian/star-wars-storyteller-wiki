@@ -1,29 +1,20 @@
 # Regiones de Varduun
 
-Varduun es un mundo terrestre templado, de hidrosfera moderada y amplias extensiones aptas para la agricultura.
+El Pacto de las Cuencas representa cinco grandes regiones. Sus límites no son solo geográficos: indican qué comunidades comparten agua, transporte, cultivos y problemas.
 
-Su paisaje conocido está dominado por cuatro tipos de terreno.
+| Región | Paisaje y actividad | Situación conocida |
+|---|---|---|
+| **[Campos de Harn](campos-harn.md)** | Gran llanura agrícola al noroeste de Karrad Landing, irrigada por pozos, bombas y el Gran Canal. | Región más productiva; alberga Tres Canales y La Cerca Larga. La Gris apareció con fuerza en el Canal Bajo. |
+| **Marismas de Asha** | Humedales poco poblados, ligados a inundaciones que siguen los ciclos de la luna Asha. | Sus comunidades consideran el territorio digno de especial respeto. Lethar Oruun las representa. |
+| **Valle Hundido** | Antigua región fértil con estaciones de bombeo abandonadas. | Evacuada tras ataques, sabotajes y desapariciones durante los Años del Cielo Vacío. Conserva mala fama. |
+| **Propiedades occidentales** | Grandes explotaciones mecanizadas y progresivamente concentradas. | Los Tesk poseen buena parte de la tierra, el crédito y los empleos. Boran Tesk las representa. |
+| **Asentamientos fluviales** | Comunidades unidas por ríos, barcazas y rutas hacia la capital. | Dependen de contratos, permisos y continuidad del transporte. Daro Vesh es su representante. |
 
-## Llanuras agrícolas
+## Paisaje común
 
-Grandes extensiones abiertas, cruzadas por caminos de servicio, canales y explotaciones de distinto tamaño. Son el corazón productivo del planeta y el lugar donde la crisis de las cosechas se percibe con mayor claridad.
+Varduun combina llanuras de basalto fértil, valles fluviales, colinas bajas de roca negra, marismas y grandes extensiones artificialmente irrigadas. El clima es templado, con sequías y lluvias torrenciales; el agua superficial resulta irregular y buena parte de las reservas permanece bajo tierra.
 
-## Valles fluviales
+## Representación
 
-Zonas de suelos fértiles y asentamientos antiguos, articuladas alrededor de cursos de agua que siguen siendo esenciales para el riego y el transporte local.
+Cada región ocupa un asiento en el [Consejo de las Cuencas](facciones-locales.md#consejo-de-las-cuencas). El Consejo administra el agua, media disputas y representa al planeta, aunque la Carta de Protección concede a la Prefectura capacidad de veto en asuntos imperiales.
 
-## Colinas basálticas
-
-Elevaciones oscuras y quebradas que interrumpen las llanuras. Algunas rutas las evitan; otras las atraviesan por pasos naturales y viejos caminos.
-
-## Marismas
-
-Terrenos húmedos, de acceso difícil y valor agrícola irregular. Las **Marismas de Asha** son la zona de este tipo mejor conocida por el momento.
-
-## Lugares regionales destacados
-
-- **Campos de Harn** — una de las grandes zonas agrícolas del planeta.
-- **Marismas de Asha** — humedales extensos y de tránsito complicado.
-- **Valle Hundido** — una depresión de importancia local cuya historia aún no está completa en el Holocron.
-
-La cartografía se ampliará conforme la campaña permita distinguir nuevas regiones y rutas.

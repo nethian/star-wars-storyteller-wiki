@@ -4,7 +4,7 @@ Wiki de campaña para **Star Wars Storyteller · La Antigua República**.
 
 ## Estado
 
-Estructura inicial del Holocron creada con **MkDocs Material**.
+Holocron de jugadores publicado con **MkDocs Material**.
 
 La wiki pública está diseñada para contener únicamente información accesible a los jugadores. Los secretos, estadísticas reservadas y preparación del Director deben mantenerse fuera de este repositorio antes de hacerlo público.
 
@@ -23,7 +23,7 @@ La wiki pública está diseñada para contener únicamente información accesibl
 
 ## Publicación
 
-El repositorio incluye un flujo de GitHub Actions para publicar con GitHub Pages cuando decidamos abrir la wiki.
+El repositorio incluye un flujo de GitHub Actions que publica la wiki en GitHub Pages.
 
 ---
 Proyecto de juego de rol no oficial y sin ánimo de lucro.

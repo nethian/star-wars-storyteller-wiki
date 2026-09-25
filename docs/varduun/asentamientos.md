@@ -1,27 +1,37 @@
 # Asentamientos de Varduun
 
-Varduun cuenta con una población aproximada de **320.000 habitantes**, repartida entre una capital de tamaño contenido, comunidades rurales, explotaciones agrícolas, puestos administrativos y enclaves especializados.
+La población de unas **320.000 personas** está dispersa entre una capital contenida, granjas, ruedas de labor, asentamientos fluviales e instalaciones especializadas.
 
 ## Karrad Landing
 
-**Karrad Landing** es la capital y principal punto de entrada al planeta.
+Capital, mercado principal y único puerto espacial de verdadera importancia. Allí se reúnen el Consejo de las Cuencas y la Prefectura, se concentran los registros y funciona el Instituto Agrícola. La ciudad recibe su nombre de la piloto que guio a los primeros colonos durante una tormenta.
 
-Concentra la mayor parte de la administración extraplanetaria, el tráfico de mercancías, las comunicaciones de largo alcance y una parte significativa de la presencia imperial.
+## Las ruedas de labor
 
-No es una megaciudad. Incluso aquí, Varduun conserva la escala de un mundo periférico.
+Son comunidades de diez a cuarenta familias agrupadas alrededor de un pozo, una estación de bombeo o un silo. Comparten taller, generador, enfermería, sala común, transportes y varios droides agrícolas. Una persona portavoz organiza el agua y representa a la rueda.
 
-## Comunidades rurales
+Los [Campos de Harn](campos-harn.md) contienen cerca de doscientas, entre ellas:
 
-Fuera de la capital predominan pequeñas poblaciones, aldeas agrícolas, cooperativas, ranchos y núcleos ligados a cuencas de cultivo.
+- **Tres Canales**, rueda mayor y centro comarcal;
+- **Rueda de Venn**, capital informal de Harn;
+- **Pozo Harn**, la comunidad más antigua;
+- **Loma Roja**, ganadera y armada;
+- **El Sarmiento**, de cultivo rotativo;
+- **Última Luz**, aislada junto al Valle Hundido;
+- **Aguaclara**, propiedad próspera de los Tesk.
 
-Muchas dependen de una única ruta, estación de carga o punto de abastecimiento, por lo que cualquier interrupción del transporte puede tener consecuencias inmediatas.
+## Tres Canales
+
+[Tres Canales](tres-canales.md) reúne 44 familias y unas 260 personas permanentes. Su mercado atrae a más de 500; durante la cosecha puede acercarse a 700. Sus tres conducciones, cuatro zonas habitadas y nueve enclaves están recogidos en un mapa civil.
 
 ## Enclaves especializados
 
-Además de los asentamientos civiles existen instalaciones con funciones concretas:
+- **Fuerte Vhal** — cuartel general de la fuerza terrestre imperial.
+- **Cosecha Negra** — estación orbital que controla tráfico, aduanas y comunicaciones.
+- **Casa del Diezmo** — sede central y delegaciones para cuotas, deudas, licencias y embargos.
+- **Asha-1** — estación meteorológica y agrícola.
+- **Molkar-3** — extracción y repostaje.
+- **Keth-7 / La Cantera** — colonia penal y explotación minera en la luna Keth.
 
-- **Fuerte Vhal**, principal enclave militar imperial conocido.
-- **Estación Cosecha Negra**, instalación orbital o de enlace asociada al control de exportaciones y tránsito.
-- **Casa del Diezmo**, centro administrativo vinculado a tributos, permisos y logística imperial.
+Consulta [Lugares importantes](lugares.md) para una referencia rápida.
 
-Se crearán páginas individuales a medida que estos lugares entren en juego.

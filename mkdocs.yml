@@ -39,14 +39,20 @@ nav:
   - Inicio: index.md
   - La campaña:
       - Presentación: campana/index.md
+      - Guía para jugadores: campana/guia-jugadores.md
       - Cronología: cronologia/index.md
       - Diario de campaña: diario/index.md
   - La galaxia:
       - Varduun:
           - Visión general: varduun/index.md
+          - Sistema de Keluun: varduun/sistema-keluun.md
           - Regiones: varduun/regiones.md
+          - Campos de Harn: varduun/campos-harn.md
+          - Tres Canales: varduun/tres-canales.md
           - Asentamientos: varduun/asentamientos.md
           - Sociedad: varduun/sociedad.md
+          - La Cerca Larga: varduun/la-cerca-larga.md
+          - La Cosecha Gris: varduun/cosecha-gris.md
           - Presencia imperial: varduun/presencia-imperial.md
           - Facciones locales: varduun/facciones-locales.md
           - Lugares importantes: varduun/lugares.md
@@ -54,7 +60,23 @@ nav:
           - Cronología local: varduun/cronologia.md
       - Facciones: facciones/index.md
       - Personajes: personajes/index.md
-      - PNJ conocidos: pnj/index.md
+      - PNJ conocidos:
+          - Índice: pnj/index.md
+          - Lysa Vey: pnj/lysa-vey.md
+          - Tomas Orlan: pnj/tomas-orlan.md
+          - Corven Raal: pnj/corven-raal.md
+          - Toma Pellan: pnj/toma-pellan.md
+          - Sira Daal: pnj/sira-daal.md
+          - Reth Marr: pnj/reth-marr.md
+          - Jessa Dorr: pnj/jessa-dorr.md
+          - Nira Bol: pnj/nira-bol.md
+          - Rovan Tesk: pnj/rovan-tesk.md
+          - Hulo Oruun: pnj/hulo-oruun.md
+          - Iven Saar: pnj/iven-saar.md
+          - Mina Tal: pnj/mina-tal.md
+          - Brik Besh: pnj/brik-besh.md
+          - Nelo Parn: pnj/nelo-parn.md
+          - Pekk Varo: pnj/pekk-varo.md
       - Naves y vehículos: naves/index.md
   - Holored: holored/index.md
   - Archivo: archivo/index.md

@@ -21,7 +21,7 @@ hide:
 <p class="sw-lead">Un mundo de cosechas, fronteras y viejas heridas bajo la sombra del Imperio Sith.</p>
 
 <div class="sw-hero-actions">
-<a class="md-button md-button--primary" href="campana/">Entrar en la campaña</a>
+<a class="md-button md-button--primary" href="campana/guia-jugadores/">Abrir guía de jugadores</a>
 <a class="md-button sw-button-ghost" href="varduun/">Explorar Varduun</a>
 </div>
 
@@ -35,6 +35,14 @@ hide:
 ## Archivos de campaña
 
 <div class="grid cards sw-home-cards" markdown>
+
+-   :material-book-open-page-variant:{ .xl .middle } **Guía de inicio**
+
+    ---
+
+    Una ruta breve por todo lo que los jugadores saben al comenzar en CT 10.
+
+    [:octicons-arrow-right-24: Empezar aquí](campana/guia-jugadores/)
 
 -   :material-earth:{ .xl .middle } **Varduun**
 
@@ -82,8 +90,8 @@ hide:
 
 <div class="sw-status-card sw-status-card--gold">
 <span class="sw-status-label">CAMPAÑA</span>
-<strong>Preparativos</strong>
-<p>El Holocron reúne la información disponible antes del comienzo de la historia.</p>
+<strong>Inicio · CT 10</strong>
+<p>El Holocron reúne el conocimiento común de Cael, Tara y Daren al abrirse la historia.</p>
 </div>
 
 <div class="sw-status-card sw-status-card--cyan">
