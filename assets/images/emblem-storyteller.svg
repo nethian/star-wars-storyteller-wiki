@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">STAR WARS STORYTELLER — Emblema</title>
+  <desc id="desc">Emblema circular plateado con ribetes dorados y estrella vertical, símbolo neutral del Holocron de campaña.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff2ad"/>
+      <stop offset=".18" stop-color="#e7bd54"/>
+      <stop offset=".48" stop-color="#9b6311"/>
+      <stop offset=".72" stop-color="#f4cf68"/>
+      <stop offset="1" stop-color="#7d4706"/>
+    </linearGradient>
+    <linearGradient id="steel" x1="0" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#f3f5f5"/>
+      <stop offset=".28" stop-color="#c6ced1"/>
+      <stop offset=".55" stop-color="#77848a"/>
+      <stop offset=".78" stop-color="#dce2e4"/>
+      <stop offset="1" stop-color="#59666c"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#fffbe0" stop-opacity="1"/>
+      <stop offset=".28" stop-color="#ffd96c" stop-opacity=".92"/>
+      <stop offset=".62" stop-color="#d49a24" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#d49a24" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-25%" y="-25%" width="150%" height="150%">
+      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#000" flood-opacity=".55"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <circle cx="256" cy="256" r="174" fill="none" stroke="url(#gold)" stroke-width="30"/>
+    <circle cx="256" cy="256" r="174" fill="none" stroke="url(#steel)" stroke-width="17"/>
+    <circle cx="256" cy="256" r="150" fill="none" stroke="#05090d" stroke-opacity=".75" stroke-width="5"/>
+
+    <path d="M64 256h92l24-17v34l-24-17H64z" fill="url(#steel)" stroke="url(#gold)" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M448 256h-92l-24-17v34l24-17h92z" fill="url(#steel)" stroke="url(#gold)" stroke-width="8" stroke-linejoin="round"/>
+
+    <path d="M256 35
+             C268 98 278 155 307 197
+             C286 187 271 174 256 150
+             C241 174 226 187 205 197
+             C234 155 244 98 256 35Z"
+          fill="url(#gold)" stroke="#5a3305" stroke-width="3" stroke-linejoin="round"/>
+
+    <path d="M256 150
+             C271 191 292 215 344 230
+             C295 236 273 248 256 277
+             C239 248 217 236 168 230
+             C220 215 241 191 256 150Z"
+          fill="url(#steel)" stroke="url(#gold)" stroke-width="10" stroke-linejoin="round"/>
+
+    <path d="M256 277
+             C273 311 278 367 256 477
+             C234 367 239 311 256 277Z"
+          fill="url(#steel)" stroke="url(#gold)" stroke-width="10" stroke-linejoin="round"/>
+
+    <circle cx="256" cy="230" r="66" fill="url(#glow)"/>
+    <path d="M256 176L266 219L309 230L266 241L256 284L246 241L203 230L246 219Z"
+          fill="#fff8cf" stroke="#e6b84e" stroke-width="4" stroke-linejoin="round"/>
+  </g>
+</svg>
