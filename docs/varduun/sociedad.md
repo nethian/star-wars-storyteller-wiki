@@ -34,6 +34,8 @@ Durante siembra y cosecha trabaja toda la familia. Los menores estudian en la sa
 
 En las épocas de mayor esfuerzo nadie come solo. Presentarse con poco porque no queda más no avergüenza; negarse a compartir pudiendo hacerlo sí. La cocina habitual incluye pan de talis, estofado de marru, queso de nerf y un aguardiente cuya reputación mejora con cada vaso.
 
+La [Rueda de las Aguas](calendario.md) organiza las estaciones de cultivo, los turnos de mercado y celebraciones como la Apertura de Aguas, la Mesa Larga y la Noche de las Balizas.
+
 ## Ley, propiedad y voto
 
 El Consejo y los portavoces gestionan tierra y agua; los tribunales locales resuelven justicia civil; la Guardia de las Acequias cubre la seguridad rural. La Prefectura asume delitos graves y el Imperio reserva para sí sedición, espionaje, espacio, puerto, exportación y requisiciones.
@@ -43,4 +45,3 @@ En ruedas como Tres Canales, las familias propietarias votan en la asamblea. Los
 ## Qué significa «protección»
 
 Los mayores recuerdan cargueros desaparecidos y una República que no acudía. Los jóvenes han crecido con rutas seguras, inspectores, cuotas y licencias. Muchas familias creen a la vez que la protección fue necesaria y que su precio se ha vuelto insoportable.
-

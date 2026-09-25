@@ -60,6 +60,12 @@ Varduun no está en guerra. La mayoría de sus habitantes ve a más guardias loc
 
     [:octicons-arrow-right-24: Abrir](tres-canales.md)
 
+-   **Calendario agrícola**
+
+    La Rueda de las Aguas, las estaciones, los turnos y las fiestas de Varduun.
+
+    [:octicons-arrow-right-24: Abrir](calendario.md)
+
 -   **La Cerca Larga**
 
     El hogar Orlan-Vey y la historia familiar que todos comparten.
@@ -94,4 +100,3 @@ Varduun no está en guerra. La mayoría de sus habitantes ve a más guardias loc
 
 !!! note "Principio del archivo"
     Estas páginas solo documentan conocimiento de jugador. Lo no descubierto y la información exclusiva de cada personaje permanecen fuera del Holocron público.
-
