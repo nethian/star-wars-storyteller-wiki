@@ -7,8 +7,8 @@ hide:
 
 <div class="sw-person-file__top" markdown>
 
-<div class="sw-person-file__portrait sw-person-file__portrait--placeholder">
-<span>RETRATO PENDIENTE</span>
+<div class="sw-person-file__portrait sw-person-file__portrait--nelo" role="img" aria-label="Retrato de Nelo Parn" style="padding:0; overflow:hidden;">
+<img src="/star-wars-storyteller-wiki/assets/images/pnj/nelo-parn.webp?v=1" alt="Retrato de Nelo Parn" style="display:block; width:100%; height:100%; min-height:360px; object-fit:cover; object-position:50% 20%;">
 </div>
 
 <div class="sw-person-file__identity" markdown>
