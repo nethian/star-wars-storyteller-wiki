@@ -210,7 +210,7 @@ Amigo de infancia de Tara. Alegre, veloz y algo irresponsable; convierte cualqui
 <details class="sw-pnj-group" markdown>
 <summary>
 <span class="sw-pnj-group__title">Círculo de Daren · Los de H-3</span>
-<span class="sw-pnj-group__meta">3 expedientes · Jóvenes de Tres Canales</span>
+<span class="sw-pnj-group__meta">4 expedientes · Jóvenes de Tres Canales</span>
 </summary>
 
 <div class="sw-person-index-card" markdown>
@@ -254,6 +254,21 @@ Hijo de Toran Besh. Alto, ruidoso, valiente y convencido de que cualquier tarde 
 Twi'lek pequeño, ágil y peligrosamente creativo con chatarra, mecanismos y puertas cerradas.
 
 [ABRIR EXPEDIENTE →](nelo-parn.md)
+
+</div>
+
+
+<div class="sw-person-index-card" markdown>
+
+<div class="sw-person-index-card__mark">✦</div>
+
+### [Pekk Varo](pekk-varo.md)
+
+**Amistad · Los de H-3**
+
+Rodiano callado y paciente, excelente rastreador y atento a huellas, viento y movimientos entre cultivos.
+
+[ABRIR EXPEDIENTE →](pekk-varo.md)
 
 </div>
 
