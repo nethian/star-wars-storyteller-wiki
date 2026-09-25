@@ -1,8 +1,8 @@
 # El sistema de Keluun
 
 <figure class="sw-wide-figure">
-  <a href="../assets/images/mapa-politico-galaxia-ct10.webp">
-    <img src="../assets/images/mapa-politico-galaxia-ct10.webp" alt="Mapa político de la galaxia en CT 10 con Varduun señalado en la cuadrícula R-8" loading="eager" decoding="async">
+  <a href="../../assets/images/mapa-politico-galaxia-ct10.webp">
+    <img src="../../assets/images/mapa-politico-galaxia-ct10.webp" alt="Mapa político de la galaxia en CT 10 con Varduun señalado en la cuadrícula R-8" loading="eager" decoding="async">
   </a>
   <figcaption>Varduun se encuentra en el Borde Exterior, cuadrícula R-8. Pulsa el mapa para ampliarlo.</figcaption>
 </figure>
@@ -57,4 +57,3 @@ Pequeña, oscura e irregular. Contiene hielo y minerales. En su cara septentrion
 
 !!! info "Salir de Varduun"
     Hacen falta una nave, un manifiesto autorizado y permiso orbital. Una avería en el Faro Karrad o un cierre de tráfico puede aislar el planeta durante días.
-

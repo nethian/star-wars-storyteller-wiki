@@ -1,8 +1,8 @@
 # Tres Canales
 
 <figure class="sw-wide-figure">
-  <a href="../assets/images/mapa-tres-canales.webp">
-    <img src="../assets/images/mapa-tres-canales.webp" alt="Croquis civil de Tres Canales con sus cuatro zonas, tres canales y nueve enclaves" loading="eager" decoding="async">
+  <a href="../../assets/images/mapa-tres-canales.webp">
+    <img src="../../assets/images/mapa-tres-canales.webp" alt="Croquis civil de Tres Canales con sus cuatro zonas, tres canales y nueve enclaves" loading="eager" decoding="async">
   </a>
   <figcaption>Croquis civil de Tres Canales. Pulsa el mapa para ampliarlo.</figcaption>
 </figure>
@@ -78,4 +78,3 @@ La seguridad diaria corresponde a nueve miembros locales de la **Guardia de las 
 ## Situación al inicio
 
 Tres Canales aún no está en rebelión ni bajo cuarentena. El mercado abre, la Guardia patrulla y las bombas funcionan. Pero la [Cosecha Gris](cosecha-gris.md), la cuota, las deudas y el debate sobre cerrar el Canal Bajo han convertido cada decisión técnica en una elección política.
-
